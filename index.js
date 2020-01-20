@@ -6,7 +6,7 @@
  */
 /* eslint-disable no-proto */
 
-'use strict'
+// 'use strict'
 
 var base64 = require('base64-js')
 var ieee754 = require('ieee754')
